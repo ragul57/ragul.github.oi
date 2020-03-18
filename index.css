@@ -1,0 +1,70 @@
+
+@media only screen and (max-width: 600px) {
+  body {
+    background-color: lightblue;
+  }
+  .head{
+    
+  }
+}
+
+.head{
+background: blue;
+color: white;
+text-align: center;
+font-family:Trebuchet Times New Roman;
+font-size: 50px;
+height:100px;
+margin: 0;
+width: 965px;
+display:inline-block;
+}
+img{
+  width: 965px;
+}
+.updates{
+  background: red;
+  height: 100px;
+  font-size: 40px;
+  color: white;
+  font-family:Trebuchet Times New Roman;
+}
+.Breaking{
+  font-family: Sans-Serif;
+  text-align: center;
+  margin:0;
+  display: inline-block;
+}
+
+.hr{
+  border-top: 4px solid blue;
+}
+.ENGLISH{
+background: red;
+  height: 70px;
+  font-size: 40px;
+  color: white;
+  font-family:Trebuchet Times New Roman;
+}
+.Btm{
+  background: blue;
+  color: white;
+ width: auto;
+ height:50px;
+ font-size: 40px;
+  
+  
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
